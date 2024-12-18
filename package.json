@@ -14,7 +14,7 @@
     "axios": "^1.6.7",
     "chart.js": "^4.4.2",
     "flowbite": "^2.3.0",
-    "flowbite-react": "^0.7.2",
+    "flowbite-react": "^0.7.8",
     "framer-motion": "^11.0.8",
     "intl": "^1.2.5",
     "intl-locales-supported": "^1.8.12",
